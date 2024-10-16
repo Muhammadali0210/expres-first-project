@@ -1,0 +1,7 @@
+mongo DB ni terminal orqali start berish "sudo systemctl start mongod"
+qayta ishlatish uchun "sudo systemctl daemon-reload"
+git config --global user.email "theprogramer0210@gmail.com"
+git config --global user.name "Muhammadali0210"
+
+
+swagger ui ni yuklab olish "npm install swagger-ui-express swagger-jsdoc --save"
